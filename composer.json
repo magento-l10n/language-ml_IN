@@ -1,0 +1,21 @@
+{
+    "name": "community-engineering/language-ml_in",
+    "version": "0.0.2",
+    "type": "magento2-language",
+    "description": "ml_IN language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
