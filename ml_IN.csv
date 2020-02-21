@@ -26,6 +26,49 @@ Notifications,അറിയിപ്പുകൾ
 "6 Hours","6 മണിക്കൂർ"
 "12 Hours","12 മണിക്കൂർ"
 "24 Hours","24 മണിക്കൂർ"
+"Manage Shopping Cart","ഷോപ്പിംഗ് കാർട്ട് നിയന്ത്രിക്കുക"
+"Create Order","ഓർഡർ സൃഷ്ടിക്കുക"
+Back,പിന്നിലേക്കു
+"Add Products","ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
+"Update Items and Quantities","ഇനങ്ങളും അളവുകളും അപ്‌ഡേറ്റുചെയ്യുക"
+Cancel,റദ്ദാക്കുക
+"Select products you want to buy","നിങ്ങൾ വാങ്ങാൻ ആഗ്രഹിക്കുന്ന ഉൽപ്പന്നങ്ങൾ തിരഞ്ഞെടുക്കുക"
+Product,ഉൽപ്പന്നം
+Price,വില
+Quantity,അളവ്
+"Last ordered items (%1)","അവസാനം ഓർ‌ഡർ‌ ചെയ്‌ത ഇനങ്ങൾ‌ (%1)"
+Products,ഉൽപ്പന്നങ്ങൾ
+"Recently Compared Products (%1)","അടുത്തിടെ താരതമ്യപ്പെടുത്തിയ ഉൽപ്പന്നങ്ങൾ (%1)"
+"Recently Viewed Products (%1)","അടുത്തിടെ കണ്ട ഉൽപ്പന്നങ്ങൾ (%1)"
+"Add to Shopping Cart","ഷോപ്പിംഗ് കാർട്ടിലേക്ക് ചേർക്കുക"
+"Remove All","എല്ലാം നീക്കം ചെയ്യുക"
+"Specify the product's options.","ഉൽപ്പന്നത്തിന്റെ ഓപ്ഷനുകൾ വ്യക്തമാക്കുക."
+"Alert me when this item is available.","ഈ ഇനം ലഭ്യമാകുമ്പോൾ എന്നെ അറിയിക്കുക."
+"We can't find this customer.","ഞങ്ങൾക്ക് ഈ ഉപഭോക്താവിനെ കണ്ടെത്താൻ കഴിയില്ല."
+"Shopping cart management is disabled for this customer.","ഈ ഉപഭോക്താവിനായി ഷോപ്പിംഗ് കാർട്ട് മാനേജുമെന്റ് അപ്രാപ്തമാക്കി."
+"We can't find this store.","ഞങ്ങൾക്ക് ഈ സ്റ്റോർ കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
+Customers,ഉപഭോക്താക്കൾ
+"You created the order.","നിങ്ങൾ ഓർഡർ നിർമിച്ചിരിക്കുന്നു."
+"Order saving error: %1","ഓർഡർ സംരക്ഷിക്കുന്നതിൽ പിശക്: %1"
+"Please choose a payment method.","ഒരു പേയ്‌മെന്റ് രീതി തിരഞ്ഞെടുക്കുക."
+"We can't process your order right now. Please try again later.","ഞങ്ങൾക്ക് ഇപ്പോൾ നിങ്ങളുടെ ഓർഡർ പ്രോസസ്സ് ചെയ്യാൻ കഴിയില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+"An error occurred on the server. Please try to place the order again.","സെർവറിൽ ഒരു പിശക് സംഭവിച്ചു. ദയവായി വീണ്ടും ഓർഡർ ചെയ്യാൻ ശ്രമിക്കുക."
+"Credit Card: xxxx-%1","ക്രെഡിറ്റ് കാർഡ്: xxxx-%1"
+"amount %1","തുക %1"
+failed.,പരാജയപ്പെട്ടു.
+successful.,വിജയിച്ചു.
+refund,റീഫണ്ട്
+"Something went wrong in the payment gateway.","പേയ്‌മെന്റ് ഗേറ്റ്‌വേയിൽ എന്തോ കുഴപ്പം സംഭവിച്ചു."
+"This payment didn't work out because we can't find this order.","ഞങ്ങൾക്ക് ഈ ഓർഡർ കണ്ടെത്താൻ കഴിയാത്തതിനാൽ ഈ പേയ്‌മെന്റ് ഫലപ്രദമായില്ല."
+"Please enter a transaction ID to authorize this payment.","ഈ പേയ്‌മെന്റ് അംഗീകരിക്കുന്നതിന് ദയവായി ഒരു ഇടപാട് ഐഡി നൽകുക."
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","എന്തോ കുഴപ്പം സംഭവിച്ചു: പണമടച്ച തുക ഓർഡർ തുകയുമായി പൊരുത്തപ്പെടുന്നില്ല. ഇത് ശരിയാക്കി വീണ്ടും ശ്രമിക്കുക."
+"Unable to get transaction details. Try again later.","ഇടപാട് വിശദാംശങ്ങൾ നേടാനായില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+"Please Select","ദയവായി തിരഞ്ഞെടുക്കുക"
+"Credit Card Number","ക്രെഡിറ്റ് കാർഡ് നമ്പർ"
+"Expiration Date","കാലഹരണപ്പെടുന്ന തീയതി"
+"Fraud Detection ","തട്ടിപ്പ് കണ്ടെത്തൽ "
+"Sorry, but something went wrong. Please contact the seller.","ക്ഷമിക്കണം, എന്തോ കുഴപ്പം സംഭവിച്ചു. വിൽപ്പനക്കാരനുമായി ബന്ധപ്പെടുക."
+Enabled,പ്രവർത്തനക്ഷമമാക്കി
 "Sign Out","സൈന്‍ ഔട്ട്‌"
 "Sign In","സൈന്‍ ഇന്‍"
 "You are subscribed to our newsletter.","നിങ്ങൾ ഞങ്ങളുടെ വാർത്താക്കുറിപ്പ് സബ്‌സ്‌ക്രൈബുചെയ്‌തു."
