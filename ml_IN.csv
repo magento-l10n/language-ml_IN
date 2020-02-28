@@ -48,6 +48,33 @@ Products,ഉൽപ്പന്നങ്ങൾ
 "Shopping cart management is disabled for this customer.","ഈ ഉപഭോക്താവിനായി ഷോപ്പിംഗ് കാർട്ട് മാനേജുമെന്റ് അപ്രാപ്തമാക്കി."
 "We can't find this store.","ഞങ്ങൾക്ക് ഈ സ്റ്റോർ കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
 Customers,ഉപഭോക്താക്കൾ
+"Please correct the data sent.","അയച്ച ഡാറ്റ ശരിയാക്കുക."
+"Entity type model '%1' is not found","എന്റിറ്റി ടൈപ്പ് മോഡൽ '%1' കണ്ടെത്തിയില്ല"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","എന്റിറ്റി ടൈപ്പ് മോഡൽ \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType ന്റെ ഒരു ഇൻസ്റ്റൻസ് ആയിരിക്കണം"
+"There are no product types available for export","കയറ്റുമതിക്കായി പ്രോഡക്റ്റ് ടൈപ്പ് ഒന്നും ലഭ്യമല്ല"
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 ക്ലാസ് \ Magento \ AdvancedRule \ Model \ Condition \ FilterTextGeneratorInterface നടപ്പിലാക്കുന്നില്ല"
+"Sales Rule","വിൽപ്പന നിയമം"
+"Index sales rule","സൂചിക വിൽപ്പന നിയമം"
+"Related Search Terms","അനുബന്ധ തിരയൽ നിബന്ധനകൾ"
+"Successful! Test again?","വിജയകരം! വീണ്ടും പരീക്ഷിക്കണോ?"
+"Connection failed! Test again?","കണക്ഷൻ പരാജയപ്പെട്ടു! വീണ്ടും പരീക്ഷിക്കണോ?"
+"Enable Search Recommendations","തിരയൽ ശുപാർശകൾ പ്രാപ്തമാക്കുക"
+"When you enable this option your site may slow down.","നിങ്ങൾ ഈ ഓപ്ഷൻ പ്രാപ്തമാക്കുമ്പോൾ നിങ്ങളുടെ സൈറ്റ് മന്ദഗതിയിലായേക്കാം."
+ID,ഐഡി
+Store,സ്റ്റോർ
+Results,ഫലം
+Uses,ഉപയോഗങ്ങൾ
+Yes,അതെ
+No,ഇല്ല
+Action,പ്രവർത്തനം
+Edit,എഡിറ്റുചെയ്യുക
+Synonym,പര്യായം
+"RPC call failed, connection timed out after %time_out.","ആർ‌പി‌സി കോൾ‌ പരാജയപ്പെട്ടു, %time_out ന് ശേഷം കണക്ഷൻ‌ കാലഹരണപ്പെട്ടു."
+"Message has been rejected: %1","സന്ദേശം നിരസിച്ചു:%1"
+"Error while checking if topic is synchronous","വിഷയം സമന്വയിപ്പിക്കുന്നുണ്ടോയെന്ന് പരിശോധിക്കുമ്പോൾ പിശക്"
+"We can't find the role for the user you wanted.","നിങ്ങൾ ആഗ്രഹിച്ച ഉപയോക്താവിനായി റോൾ കണ്ടെത്താൻ ഞങ്ങൾക്ക് കഴിയില്ല."
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","അനുവദനീയമായ ഉറവിടങ്ങളുടെ ഒരു ലിസ്റ്റ് കംപൈൽ ചെയ്യുമ്പോൾ എന്തോ തെറ്റായി സംഭവിച്ചു. എക്സെപ്ഷൻസ് ലോഗിൽ നിങ്ങൾക്ക് കൂടുതൽ കണ്ടെത്താൻ കഴിയും."
+"The role wasn't found for the user. Verify the role and try again.","ഉപയോക്താവിനായി റോൾ കണ്ടെത്തിയില്ല. റോൾ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
 "You created the order.","നിങ്ങൾ ഓർഡർ നിർമിച്ചിരിക്കുന്നു."
 "Order saving error: %1","ഓർഡർ സംരക്ഷിക്കുന്നതിൽ പിശക്: %1"
 "Please choose a payment method.","ഒരു പേയ്‌മെന്റ് രീതി തിരഞ്ഞെടുക്കുക."
@@ -69,6 +96,127 @@ refund,റീഫണ്ട്
 "Fraud Detection ","തട്ടിപ്പ് കണ്ടെത്തൽ "
 "Sorry, but something went wrong. Please contact the seller.","ക്ഷമിക്കണം, എന്തോ കുഴപ്പം സംഭവിച്ചു. വിൽപ്പനക്കാരനുമായി ബന്ധപ്പെടുക."
 Enabled,പ്രവർത്തനക്ഷമമാക്കി
+Close,അടയ്ക്കുക
+options,ഓപ്ഷനുകൾ
+"Select all","എല്ലാം തിരഞ്ഞെടുക്കുക"
+"Deselect all","തിരഞ്ഞെടുത്ത എല്ലാം മായ്ക്കുക"
+Done,കഴിഞ്ഞിരിക്കുന്നു
+"%s of %s selected","%s ന്റെ %s തിരഞ്ഞെടുത്തു"
+"B2B Features","ബി 2 ബി സവിശേഷതകൾ"
+"All Segments","എല്ലാ സെഗ്‌മെന്റുകളും"
+"Customer Segment","ഉപഭോക്തൃ വിഭാഗം"
+Country,രാജ്യം
+"Credit Card","ക്രെഡിറ്റ് കാർഡ്"
+ending,അവസാനിക്കുന്നു
+expires,കാലഹരണപ്പെടുന്നു
+PayPal,പേപാൽ
+"Please agree to all the terms and conditions before placing the order.","ഓർ‌ഡർ‌ നൽ‌കുന്നതിന് മുമ്പ് ദയവായി എല്ലാ നിബന്ധനകളും വ്യവസ്ഥകളും അംഗീകരിക്കുക."
+"Transaction was failed.","ഇടപാട് പരാജയപ്പെട്ടു."
+"Credit Card Type","ക്രെഡിറ്റ് കാർഡ് ടൈപ്പ്"
+"Please, enter valid Credit Card Number","ദയവായി, സാധുവായ ക്രെഡിറ്റ് കാർഡ് നമ്പർ നൽകുക"
+"Please, enter valid Expiration Date","ദയവായി, സാധുവായ കാലഹരണ തീയതി നൽകുക"
+"Card Verification Number","കാർഡ് വെരിഫിക്കേഷൻ നമ്പർ"
+"Please, enter valid Card Verification Number","ദയവായി, സാധുവായ കാർഡ് വെരിഫിക്കേഷൻ നമ്പർ നൽകുക"
+"Are you sure you want to delete this PayPal account","ഈ പേപാൽ അക്കൗണ്ട് ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ"
+"PayPal Account","പേപാൽ അക്കൗണ്ട്"
+"PayPal Logo","പേപാൽ ലോഗോ"
+Actions,പ്രവര്‍ത്തികള്‍
+Delete,"നീക്കം ചെയ്യുക"
+"Credit Card Information","ക്രെഡിറ്റ് കാർഡ് വിവരങ്ങൾ"
+"What is this?","ഇത് എന്താണ്?"
+"Save for later use.","പിന്നീടുള്ള ഉപയോഗത്തിനായി സേവ് ചെയ്യുക."
+"Place Order","ഓർഡർ പ്ലേസ് ചെയ്യുക"
+"This payment is not available","ഈ പേയ്‌മെന്റ് ലഭ്യമല്ല"
+"Please try again with another form of payment.","ദയവായി മറ്റൊരു തരത്തിലുള്ള പേയ്‌മെന്റ് ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"Sorry, but something went wrong.","ക്ഷമിക്കണം, എന്തോ കുഴപ്പം സംഭവിച്ചു."
+"Payment ","പേയ്മെന്റ് "
+"Credit card type is not accepted by this merchant account.","ക്രെഡിറ്റ് കാർഡ് ടൈപ്പ് ഈ വ്യാപാരി അക്കൗണ്ട് അംഗീകരിക്കുന്നില്ല."
+"Credit transactions cannot be refunded.","ക്രെഡിറ്റ് ഇടപാടുകൾ റീഫണ്ട് ചെയ്യാൻ കഴിയില്ല."
+"Cannot refund a transaction unless it is settled.","ഒരു ഇടപാട് തീർപ്പാക്കിയില്ലെങ്കിൽ അത് തിരികെ നൽകാനാവില്ല."
+"Cannot submit for settlement unless status is authorized.","സ്റ്റാറ്റസ് അംഗീകരിച്ചില്ലെങ്കിൽ സെറ്റിൽമെന്റിനായി സമർപ്പിക്കാൻ കഴിയില്ല."
+"Customer does not have any credit cards.","ഉപഭോക്താവിന് ക്രെഡിറ്റ് കാർഡുകളൊന്നുമില്ല."
+"Transaction has already been completely refunded.","ഇടപാട് ഇതിനകം പൂർണമായും മടക്കിനൽകി."
+"Payment instrument type is not accepted by this merchant account.","പേയ്‌മെന്റ് ഇൻസ്ട്രുമെന്റ് ടൈപ്പ് ഈ വ്യാപാരി അക്കൗണ്ട് അംഗീകരിക്കുന്നില്ല."
+"Percent Discount","ശതമാനം കിഴിവ്"
+"-- Select --","സെലക്ട് ചെയ്യുക"
+Dynamic,ഡൈനാമിക്
+Fixed,നിശ്ചിതമായ
+"Create New Option","പുതിയ ഓപ്ഷൻ സൃഷ്ടിക്കുക"
+"Bundle Items","ഇനങ്ങൾ ബണ്ടിൽ ചെയ്യുക"
+"Add Products to Option","ഓപ്ഷനിലേക്ക് ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
+"Delete Option","ഓപ്ഷൻ ഇല്ലാതാക്കുക"
+"What are you looking for?","എന്താണ് നിങ്ങൾ തിരയുന്നത്?"
+"Use Default Value","സ്ഥിര മൂല്യം ഉപയോഗിക്കുക"
+"Only implemented for bundle product","ബണ്ടിൽ ഉൽപ്പന്നത്തിനായി മാത്രം നടപ്പിലാക്കി"
+"Bundle product could not contain another composite product","ബണ്ടിൽ ഉൽപ്പന്നത്തിൽ മറ്റൊരു സംയോജിത ഉൽപ്പന്നം അടങ്ങിയിരിക്കരുത്"
+"Id field of product link is required","ഉൽപ്പന്ന ലിങ്കിന്റെ ഐഡി ഫീൽഡ് ആവശ്യമാണ്"
+"Can not find product link with id ""%1""","""%1"" ഐഡി ആയുള്ള ഉൽപ്പന്ന ലിങ്ക് കണ്ടെത്താനായില്ല"
+"Requested bundle option product doesn't exist","അഭ്യർത്ഥിച്ച ബണ്ടിൽ ഓപ്ഷൻ ഉൽപ്പന്നം നിലവിലില്ല"
+"%fieldName is a required field.","%fഫീൽഡ്നെയിം ഒരു ആവശ്യമായ ഫീൽഡാണ്."
+"Requested option doesn't exist","അഭ്യർത്ഥിച്ച ഓപ്‌ഷൻ നിലവിലില്ല"
+"Price Range","വില പരിധി"
+"As Low as","അത്രയും കുറവാണ്"
+Together,ഒരുമിച്ച്
+Separately,വെവ്വേറെ
+"Please specify product option(s).","ഉൽപ്പന്ന ഓപ്ഷൻ (കൾ) വ്യക്തമാക്കുക."
+"The options you selected are not available.","നിങ്ങൾ തിരഞ്ഞെടുത്ത ഓപ്ഷനുകൾ ലഭ്യമല്ല."
+"The required options you selected are not available.","നിങ്ങൾ തിരഞ്ഞെടുത്ത ആവശ്യമായ ഓപ്ഷനുകൾ ലഭ്യമല്ല."
+"Please select all required options.","ആവശ്യമായ എല്ലാ ഓപ്ഷനുകളും തിരഞ്ഞെടുക്കുക."
+"We can't add this item to your shopping cart right now.","ഞങ്ങൾക്ക് ഇപ്പോൾ നിങ്ങളുടെ ഷോപ്പിംഗ് കാർട്ടിൽ ഈ ഇനം ചേർക്കാൻ കഴിയില്ല."
+N/A,ബാധകമല്ല
+"Add Selected Products","തിരഞ്ഞെടുത്ത ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
+"Add Option","ഓപ്ഷൻ ചേർക്കുക"
+"New Option","പുതിയ ഓപ്ഷൻ"
+"Option Title","ഓപ്ഷൻ ശീർഷകം"
+"Store View Title","സ്റ്റോർ വ്യൂ ശീർഷകം"
+Always,എപ്പോഴും
+CAPTCHA,ക്യാപ്ച
+Root,റൂട്ട്
+Save,"സേവ് ചെയ്യുക"
+"Use Config Settings","കോൺഫിഗ് സെറ്റിംഗ്സ് ഉപയോഗിക്കുക"
+"Use All Available Attributes","ലഭ്യമായ എല്ലാ ആട്രിബ്യൂട്ടുകളും ഉപയോഗിക്കുക"
+Name,പേര്
+Visibility,വിസിബിലിറ്റി
+Status,സ്റ്റാറ്റസ്
+Position,സ്ഥാനം
+"Add Subcategory","ഉപവിഭാഗം ചേർക്കുക"
+"Add Root Category","റൂട്ട് വിഭാഗം ചേർക്കുക"
+Day,ദിവസം
+Month,മാസം
+Year,വർഷം
+"Add Product","ഉൽപ്പന്നം ചേർക്കുക"
+label,ലേബല്‍
+"Add New Attribute","പുതിയ ആട്രിബ്യൂട്ട് ചേർക്കുക"
+"Save Attribute","ആട്രിബ്യൂട്ട് സേവ് ചെയ്യുക"
+"Save in New Attribute Set","പുതിയ ആട്രിബ്യൂട്ട് സെറ്റിൽ സേവ് ചെയ്യുക"
+"Enter Name for New Attribute Set","പുതിയ ആട്രിബ്യൂട്ട് സെറ്റിനായി പേര് നൽകുക"
+"Save and Continue Edit","സേവ് ചെയ്തിട്ട് എഡിറ്റ് തുടരുക"
+"Delete Attribute","ആട്രിബ്യൂട്ട് ഇല്ലാതാക്കുക"
+"Edit Product Attribute ""%1""","പ്രോഡക്റ്റ് ആട്രിബ്യൂട്ട് എഡിറ്റുചെയ്യുക ""%1"""
+"New Product Attribute","പുതിയ പ്രോഡക്റ്റ് ആട്രിബ്യൂട്ട്"
+"Advanced Attribute Properties","നൂതന ആട്രിബ്യൂട്ട് പ്രോപ്പർട്ടികൾ"
+"Attribute Code","ആട്രിബ്യൂട്ട് കോഡ്"
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","ഇത് ആന്തരികമായി ഉപയോഗിക്കുന്നു. നിങ്ങൾ സ്‌പെയ്‌സുകളോ %1 ചിഹ്നങ്ങളിൽ കൂടുതലോ ഉപയോഗിക്കുന്നില്ലെന്ന് ഉറപ്പാക്കുക."
+"Default Value","സ്ഥിര മൂല്യം"
+"Not shared with other products.","മറ്റ് ഉൽപ്പന്നങ്ങളുമായി പങ്കിടുന്നില്ല."
+"Input Validation for Store Owner","സ്റ്റോർ ഉടമയ്‌ക്കുള്ള ഇൻപുട്ട് മൂല്യനിർണ്ണയം"
+"Add to Column Options","കോളം ഓപ്ഷനുകളിലേക്ക് ചേർക്കുക"
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","പ്രോഡക്റ്റ് ഗ്രിഡിലെ കോളം ഓപ്ഷനുകളുടെ പട്ടികയിലേക്ക് ഈ ആട്രിബ്യൂട്ട് ചേർക്കാൻ ""അതെ"" തിരഞ്ഞെടുക്കുക."
+"Use in Filter Options","ഫിൽട്ടർ ഓപ്ഷനുകളിൽ ഉപയോഗിക്കുക"
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","ഉൽപ്പന്ന ഗ്രിഡിലെ ഫിൽട്ടർ ഓപ്ഷനുകളുടെ പട്ടികയിലേക്ക് ഈ ആട്രിബ്യൂട്ട് ചേർക്കാൻ ""അതെ"" തിരഞ്ഞെടുക്കുക."
+"Store View","സ്റ്റോർ വ്യൂ"
+Website,"വെബ് സൈറ്റ്"
+"Preview mode doesn't allow submitting the order.","ഓർഡർ സമർപ്പിക്കാൻ പ്രിവ്യൂ മോഡ് അനുവദിക്കുന്നില്ല."
+"Preview Quote Lifetime (minutes)","പ്രിവ്യൂ കോട്ട് ജീവിതകാലയളവ് (മിനിറ്റ്)"
+"The order can't be submitted in preview mode.","ഓർഡർ പ്രിവ്യൂ മോഡിൽ സമർപ്പിക്കാൻ കഴിയില്ല."
+Select...,തിരഞ്ഞെടുക്കുക...
+Weight,തൂക്കം
+Attributes,ആട്രിബ്യൂട്ട്സ്
+"Attribute Label","ആട്രിബ്യൂട്ട് ലേബൽ"
+Required,ആവശ്യമായത്
+System,സിസ്റ്റം
+Searchable,"തിരയാൻ കഴിയുന്ന"
+Comparable,താരതമ്യപ്പെടുത്താവുന്ന
 "Sign Out","സൈന്‍ ഔട്ട്‌"
 "Sign In","സൈന്‍ ഇന്‍"
 "You are subscribed to our newsletter.","നിങ്ങൾ ഞങ്ങളുടെ വാർത്താക്കുറിപ്പ് സബ്‌സ്‌ക്രൈബുചെയ്‌തു."
