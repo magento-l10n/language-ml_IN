@@ -298,3 +298,49 @@ Comparable,താരതമ്യപ്പെടുത്താവുന്ന
 "Add New Address","പുതിയ അഡ്രസ് ചേർക്കുക"
 "Start date","ആരംഭ തീയതി"
 "End Date","അവസാന തീയതി"
+"Store Credit","സ്റ്റോർ ക്രെഡിറ്റ്"
+Date,തീയതി
+"Balance Change","ബാലൻസ് മാറ്റം"
+Balance,ബാലൻസ്
+"Customer notified","ഉപഭോക്താവിനെ അറിയിച്ചു"
+Notified,അറിയിച്ചു
+"More information","കൂടുതൽ വിവരങ്ങൾ"
+"Update Balance","അപ്‌ഡേറ്റ് ബാലൻസ്"
+"An amount on which to change the balance","ബാലൻസ് മാറ്റേണ്ട തുക"
+"Notify Customer by Email","ഇമെയിൽ വഴി ഉപഭോക്താവിനെ അറിയിക്കുക"
+"Send Email Notification From the Following Store View","ഇനിപ്പറയുന്ന സ്റ്റോർ വ്യൂയിൽ നിന്ന് ഇമെയിൽ അറിയിപ്പ് അയയ്‌ക്കുക"
+Comment,അഭിപ്രായം
+"Failed to initialize customer","ഉപഭോക്താവിനെ സമാരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
+"The store credit payment has been removed from shopping cart.","ഷോപ്പിംഗ് കാർട്ടിൽ നിന്ന് സ്റ്റോർ ക്രെഡിറ്റ് പേയ്‌മെന്റ് നീക്കംചെയ്‌തു."
+"You are not using store credit in your shopping cart.","നിങ്ങളുടെ ഷോപ്പിംഗ് കാർട്ടിൽ നിങ്ങൾ സ്റ്റോർ ക്രെഡിറ്റ് ഉപയോഗിക്കുന്നില്ല."
+"Please set a website ID.","ഒരു വെബ്‌സൈറ്റ് ഐഡി സജ്ജമാക്കുക."
+"By admin: %1.","അഡ്മിൻ വഴി: %1."
+"By admin: %1. (%2)","അഡ്മിൻ വഴി: % 1. (%2)"
+"Please also set the Store ID.","സ്റ്റോർ ഐഡിയും സജ്ജമാക്കുക."
+"Please enter a store ID to send email notifications.","ഇമെയിൽ അറിയിപ്പുകൾ അയയ്‌ക്കാൻ ദയവായി ഒരു സ്റ്റോർ ഐഡി നൽകുക."
+"Please specify a customer ID.","ഒരു ഉപഭോക്തൃ ഐഡി വ്യക്തമാക്കുക."
+"Please specify a valid customer.","സാധുവായ ഒരു ഉപഭോക്താവിനെ വ്യക്തമാക്കുക."
+Created,സൃഷ്ടിച്ചു
+Updated,അപ്‌ഡേറ്റുചെയ്‌തു
+Used,ഉപയോഗിച്ചു
+Refunded,"റീഫണ്ട് ചെയ്തു"
+Reverted,പഴയപടിയാക്കി
+"You need a balance to save your balance history.","നിങ്ങളുടെ ബാലൻസ് ഹിസ്റ്ററി സംരക്ഷിക്കാൻ നിങ്ങൾക്ക് ഒരു ബാലൻസ് ആവശ്യമാണ്."
+"Order #%1","ഓർഡർ #%1"
+"There is no credit memo set to balance model.","ബാലൻസ് മോഡലിന് ക്രെഡിറ്റ് മെമ്മോ സജ്ജമാക്കിയിട്ടില്ല."
+"Order #%1, creditmemo #%2","ഓർഡർ #%1, ക്രെഡിറ്റ്മെമോ #%2"
+"There is no order set to balance model.","മോഡൽ ബാലൻസ് ചെയ്യുന്നതിന് ഒരു ഓർഡറും സജ്ജമാക്കിയിട്ടില്ല."
+"You do not have enough store credit to complete this order.","ഈ ഓർ‌ഡർ‌ പൂർ‌ത്തിയാക്കാൻ‌ നിങ്ങൾ‌ക്ക് മതിയായ സ്റ്റോർ‌ ക്രെഡിറ്റ് ഇല്ല."
+"You can't use more store credit than the order amount.","ഓർഡർ തുകയേക്കാൾ കൂടുതൽ സ്റ്റോർ ക്രെഡിറ്റ് നിങ്ങൾക്ക് ഉപയോഗിക്കാൻ കഴിയില്ല."
+"Store Credit Balance","സ്റ്റോർ ക്രെഡിറ്റ് ബാലൻസ്"
+"Balance History","ബാലൻസ് ഹിസ്റ്ററി"
+"Refund Store Credit to Store Credit","സ്റ്റോർ ക്രെഡിറ്റിലേക്ക് സ്റ്റോർ ക്രെഡിറ്റ് റീഫണ്ട് ചെയ്യുക"
+"Refund Money to Store Credit","സ്റ്റോർ ക്രെഡിറ്റിലേക്കു പണം തിരികെ നൽകുക"
+"Refund to Store Credit","സ്റ്റോർ ക്രെഡിറ്റിലേക്കു പണം തിരികെ നൽകുക"
+"Use Store Credit (%1 available)","സ്റ്റോർ ക്രെഡിറ്റ് ഉപയോഗിക്കുക (%1 ലഭ്യമാണ്)"
+"Your balance is:","നിങ്ങളുടെ ബാലൻസ് ഇതാണ്:"
+"Use Store Credit","സ്റ്റോർ ക്രെഡിറ്റ് ഉപയോഗിക്കുക"
+available,ലഭ്യമാണ്
+"Refunded to Store Credit","സ്റ്റോർ ക്രെഡിറ്റിലേക്കു പണം തിരികെ നൽകുക"
+"Customer Address Attributes","കസ്റ്റമർ അഡ്രസ് ആട്രിബ്യൂട്ടുകൾ"
+"Save and Continue Edit","സേവ് ചെയ്ത്എഡിറ്റ് തുടരുക"
