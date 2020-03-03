@@ -1,14 +1,34 @@
 All,എല്ലാം
 None,ഒന്നുമില്ല
 "Allowed Scopes","അനുവദനീയമായ സ്കോപ്പുകൾ"
+"You need more permissions to delete this item(s): %1.","ഈ ഇനം (കൾ) ഇല്ലാതാക്കാൻ നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്: %1."
 "You need more permissions to apply some of the rule updates.","ചില റൂളുകൾ അപ്ഡേറ്റ് ചെയ്യുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ‌ അനുമതികൾ‌ ആവശ്യമാണ്."
+"Please assign this entity to a store view.","ഒരു സ്റ്റോർ വ്യൂയിലേക്ക് ഈ എന്റിറ്റി നൽകുക."
 "You can create orders only in an active store.","നിങ്ങൾക്ക് ഒരു സജീവ സ്റ്റോറിൽ മാത്രമേ ഓർഡറുകൾ സൃഷ്ടിക്കാൻ കഴിയൂ."
+"Please assign this item to a store view.","ഒരു സ്റ്റോർ വ്യൂയിലേക്ക് ഈ ഇനം നൽകുക."
+"You need more permissions to save this item.","ഈ ഇനം സേവ് ചെയ്യുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"You need more permissions to delete this item.","ഈ ഇനം ഇല്ലാതാക്കാൻ നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"You need more permissions to view this item.","ഈ ഇനം വ്യൂ ചെയ്യുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"Please specify at least one website or one store group.","കുറഞ്ഞത് ഒരു വെബ്‌സൈറ്റ് അല്ലെങ്കിൽ ഒരു സ്റ്റോർ ഗ്രൂപ്പെങ്കിലും വ്യക്തമാക്കുക."
+"You need more permissions to set All Scopes to a Role.","എല്ലാ സ്കോപ്പുകളും ഒരു റോളായി സജ്ജീകരിക്കുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"Incorrect website ID: %1","തെറ്റായ വെബ്‌സൈറ്റ് ഐഡി: %1"
 "You need more permissions to access website ""%1"".","""%1"" വെബ്‌സൈറ്റ് ആക്‌സസ് ചെയ്യുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
 "Incorrect store ID: %1","തെറ്റായ സ്റ്റോർ ഐഡി: %1"
 "You need more permissions to save this setting.","ഈ സെറ്റിങ്സ് സേവ് ചെയ്യാൻ നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
 "Role Scopes","റോൾ സ്കോപ്പുകൾ"
 Custom,കസ്റ്റം
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","നിലവിലെ സ്റ്റോർ വ്യൂയുടെ പരിധിയിൽ ഈ ഇനം സേവ് ചെയ്യാൻ നിങ്ങൾക്ക് അനുമതികളില്ല. ദയവായി, അനുവദനീയമായ സ്റ്റോർ വ്യൂ യിലേക്ക് മാറുക"
 "More permissions are needed to delete the ""%1"" item.","""%1"" ഇല്ലാതാക്കാൻ കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","ഈ എന്റിറ്റി ഒരു സ്റ്റോർ വ്യൂ യിലേക്ക് നിയോഗിക്കേണ്ടതുണ്ട്. എന്റിറ്റി അസൈൻമെന്റ് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"Orders can only be completed in an active store. Verify the store and try again.","ഒരു സജീവ സ്റ്റോറിൽ മാത്രമേ ഓർഡറുകൾ പൂർത്തിയാക്കാൻ കഴിയൂ. സ്റ്റോർ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"This item needs to be assigned to a store view. Assign item and try again.","ഈ ഇനം ഒരു സ്റ്റോർ വ്യൂ യിലേക്ക് നിയോഗിക്കേണ്ടതുണ്ട്. ഇനം നൽകി വീണ്ടും ശ്രമിക്കുക."
+"More permissions are needed to save this item.","ഈ ഇനം സേവ് ചെയ്യാൻ കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"More permissions are needed to delete this item.","ഈ ഇനം ഇല്ലാതാക്കാൻ കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"More permissions are needed to view this item.","ഈ ഇനം കാണുന്നതിന് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"At least one website or store group needs to be selected. Select and try again.","കുറഞ്ഞത് ഒരു വെബ്‌സൈറ്റ് അല്ലെങ്കിൽ സ്റ്റോർ ഗ്രൂപ്പെങ്കിലും തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്. തിരഞ്ഞെടുത്ത് വീണ്ടും ശ്രമിക്കുക."
+"More permissions are needed to set All Scopes to a Role.","എല്ലാ സ്കോപ്പുകളും ഒരു റോളായി സജ്ജീകരിക്കുന്നതിന് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" വെബ്‌സൈറ്റ് ഐഡി തെറ്റാണ്. വെബ്‌സൈറ്റ് ഐഡി പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" സ്റ്റോർ ഐഡി തെറ്റാണ്. സ്റ്റോർ ഐഡി പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
 "More permissions are needed to save this setting.","സെറ്റിങ്സ് സേവ് ചെയ്യാൻ കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
 "Read Details","വിശദാംശങ്ങൾ വായിക്കുക"
 "Mark as Read","വായിച്ചതായി അടയാളപ്പെടുത്തുക"
@@ -21,33 +41,94 @@ Remove,"നീക്കം ചെയ്യുക"
 close,അടയ്ക്കുക
 Notifications,അറിയിപ്പുകൾ
 "The message has been marked as Read.","മെസ്സേജ് റീഡ് എന്ന് അടയാളപ്പെടുത്തി."
+"We couldn't mark the notification as Read because of an error.","ഒരു പിശക് കാരണം ഞങ്ങൾക്ക് അറിയിപ്പ് വായിച്ചതായി അടയാളപ്പെടുത്താൻ കഴിഞ്ഞില്ല."
+"Please select messages.","ദയവായി സന്ദേശങ്ങൾ തിരഞ്ഞെടുക്കുക."
+"A total of %1 record(s) have been marked as Read.","മൊത്തം %1 റെക്കോർഡ് (കൾ) വായിച്ചതായി അടയാളപ്പെടുത്തി."
+"Total of %1 record(s) have been removed.","%1 റെക്കോർഡ് (കൾ‌) നീക്കംചെയ്‌തു."
+"We couldn't remove the messages because of an error.","ഒരു പിശക് കാരണം ഞങ്ങൾക്ക് സന്ദേശങ്ങൾ നീക്കംചെയ്യാനായില്ല."
+"The message has been removed.","സന്ദേശം നീക്കംചെയ്‌തു."
 "1 Hour","1 മണിക്കൂർ"
 "2 Hours","2 മണിക്കൂർ"
 "6 Hours","6 മണിക്കൂർ"
 "12 Hours","12 മണിക്കൂർ"
 "24 Hours","24 മണിക്കൂർ"
+critical,ഗുരുതരമാണ്
+major,പ്രധാന
+minor,മൈനർ
+notice,അറിയിപ്പ്
+"Wrong message type","തെറ്റായ മെസ്സേജ് ടൈപ്പ്"
+"Wrong notification ID specified.","തെറ്റായ നോട്ടിഫിക്കേഷൻ ഐഡി വ്യക്തമാക്കി."
+"One or more of the Cache Types are invalidated: %1. ","ഒന്നോ അതിലധികമോ കാഷെ ടൈപ്പ്‌ അസാധുവാണ്: %1. "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","<a href=""%1""> കാഷെ മാനേജുമെന്റ് </a> എന്നതിലേക്ക് പോയി കാഷെ ടൈപ്പ്‌ പുതുക്കുക."
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","ഒന്നോ അതിലധികമോ മീഡിയ ഫയലുകൾ സമന്വയിപ്പിക്കാൻ ഞങ്ങൾക്ക് കഴിഞ്ഞില്ല. വിശദാംശങ്ങൾക്ക് ദയവായി ലോഗ് ഫയൽ പരിശോധിക്കുക."
+"Synchronization of media storages has been completed.","മീഡിയ സ്റ്റോറേജുകളുടെ സമന്വയം പൂർത്തിയായി."
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","നിങ്ങളുടെ വെബ് സെർവർ തെറ്റായി സജ്ജമാക്കി സെൻസിറ്റീവ് ഫയലുകളിലേക്ക് അനധികൃതമായി പ്രവേശിക്കാൻ അനുവദിക്കുന്നു. നിങ്ങളുടെ ഹോസ്റ്റിംഗ് ദാതാവിനെ ബന്ധപ്പെടുക."
+"System Messages:","സിസ്റ്റം സന്ദേശങ്ങൾ:"
+"Critical System Messages","ഗുരുതരമായ സിസ്റ്റം സന്ദേശങ്ങൾ"
+"Major System Messages","പ്രധാന സിസ്റ്റം സന്ദേശങ്ങൾ"
+"System messages","സിസ്റ്റം സന്ദേശങ്ങൾ"
+Close,അടയ്ക്കുക
+"See All (","എല്ലാം കാണൂ ("
+" unread)"," വായിക്കാത്തത്)"
+"Show Toolbar","ടൂൾബാർ കാണിക്കുക"
+"Show List","പട്ടിക കാണിക്കുക"
+"Use HTTPS to Get Feed","ഫീഡ് ലഭിക്കുന്നതിന് HTTPS ഉപയോഗിക്കുക"
+"Update Frequency","അപ്‌ഡേറ്റ് ഫ്രേക്യുഎൻസി"
+"Last Update","അവസാന പരിഷ്കാരം"
+Severity,തീവ്രത
+"Date Added","തീയതി ചേർത്തു"
+Message,സന്ദേശം
+Actions,പ്രവർത്തനങ്ങൾ
+"Close popup","പോപ്പ്അപ്പ് അടയ്‌ക്കുക"
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","സമീപകാലത്തെ എല്ലാ സിസ്റ്റം അറിയിപ്പുകളും നിങ്ങൾ കണ്ടു പരിഹരിച്ചു. അറിയിപ്പ് അലേർട്ട് മായ്‌ക്കുന്നതിന് ദയവായി വെബ് പേജ് പുതുക്കുക."
 "Manage Shopping Cart","ഷോപ്പിംഗ് കാർട്ട് നിയന്ത്രിക്കുക"
 "Create Order","ഓർഡർ സൃഷ്ടിക്കുക"
 Back,പിന്നിലേക്കു
 "Add Products","ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
 "Update Items and Quantities","ഇനങ്ങളും അളവുകളും അപ്‌ഡേറ്റുചെയ്യുക"
+"Are you sure you want to clear your cart?","നിങ്ങളുടെ കാർട്ട് മായ്‌ക്കണമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?"
+"Clear my shopping cart","എന്റെ ഷോപ്പിംഗ് കാർട്ട് മായ്‌ക്കുക"
+"Add selections to my cart","എന്റെ കാർട്ടിലേക്ക് തിരഞ്ഞെടുക്കലുകൾ ചേർക്കുക"
 Cancel,റദ്ദാക്കുക
+"Shopping Cart for %1 in %2","%2 ൽ %1 നുള്ള ഷോപ്പിംഗ് കാർട്ട്"
 "Select products you want to buy","നിങ്ങൾ വാങ്ങാൻ ആഗ്രഹിക്കുന്ന ഉൽപ്പന്നങ്ങൾ തിരഞ്ഞെടുക്കുക"
 Product,ഉൽപ്പന്നം
 Price,വില
 Quantity,അളവ്
+"Products in the Comparison List (%1)","താരതമ്യ പട്ടികയിലെ ഉൽപ്പന്നങ്ങൾ (%1)"
 "Last ordered items (%1)","അവസാനം ഓർ‌ഡർ‌ ചെയ്‌ത ഇനങ്ങൾ‌ (%1)"
 Products,ഉൽപ്പന്നങ്ങൾ
+ID,ഐഡി
 "Recently Compared Products (%1)","അടുത്തിടെ താരതമ്യപ്പെടുത്തിയ ഉൽപ്പന്നങ്ങൾ (%1)"
 "Recently Viewed Products (%1)","അടുത്തിടെ കണ്ട ഉൽപ്പന്നങ്ങൾ (%1)"
 "Add to Shopping Cart","ഷോപ്പിംഗ് കാർട്ടിലേക്ക് ചേർക്കുക"
+Apply,പ്രയോഗിക്കുക
+Configure,"കോൺഫിഗർ ചെയ്യുക"
+"Add to Order","ഓർഡറിലേക്ക് ചേർക്കുക"
+"Add Products to Order","ഓർഡറിലേക്ക് ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
 "Remove All","എല്ലാം നീക്കം ചെയ്യുക"
+"Only %1%2%3 left in stock","സ്റ്റോക്കിൽ %1%2%3 മാത്രം ശേഷിക്കുന്നു"
+"You can buy up to %1 of these per purchase.","നിങ്ങൾക്ക് ഓരോ വാങ്ങലിനും %1 വരെ വാങ്ങാം."
+"You must buy at least %1 of these per purchase.","ഓരോ വാങ്ങലിനും കുറഞ്ഞത് %1എങ്കിലും നിങ്ങൾ വാങ്ങണം."
 "Specify the product's options.","ഉൽപ്പന്നത്തിന്റെ ഓപ്ഷനുകൾ വ്യക്തമാക്കുക."
 "Alert me when this item is available.","ഈ ഇനം ലഭ്യമാകുമ്പോൾ എന്നെ അറിയിക്കുക."
 "We can't find this customer.","ഞങ്ങൾക്ക് ഈ ഉപഭോക്താവിനെ കണ്ടെത്താൻ കഴിയില്ല."
 "Shopping cart management is disabled for this customer.","ഈ ഉപഭോക്താവിനായി ഷോപ്പിംഗ് കാർട്ട് മാനേജുമെന്റ് അപ്രാപ്തമാക്കി."
 "We can't find this store.","ഞങ്ങൾക്ക് ഈ സ്റ്റോർ കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
 Customers,ഉപഭോക്താക്കൾ
+"Shopping Cart","ഷോപ്പിംഗ് കാർട്ട്"
+"Sorry, something went wrong. You can find out more in the error log.","ക്ഷമിക്കണം, എന്തോ കുഴപ്പം സംഭവിച്ചു. പിശക് ലോഗിൽ നിങ്ങൾക്ക് കൂടുതൽ കണ്ടെത്താൻ കഴിയും."
+"You do not have access to this.","നിങ്ങൾക്ക് ഇതിലേക്ക് ആക്സസ് ഇല്ല."
+"Ordered item id is not received.","ഓർഡർ ചെയ്ത ഐറ്റം ഐഡി ലഭിച്ചില്ല."
+"Ordered item is not loaded.","ഓർഡർ ചെയ്ത ഐറ്റം ലോഡുചെയ്തിട്ടില്ല."
+"The wish list item id is not received.","വിഷ് ലിസ്റ്റ് ഐറ്റം ഐഡി ലഭിച്ചില്ല."
+"The wish list item is not loaded.","വിഷ് ലിസ്റ്റ് ഐറ്റം ലോഡുചെയ്തിട്ടില്ല."
+"An error has occurred. See error log for details.","ഒരു പിശക് സംഭവിച്ചു. വിശദാംശങ്ങൾക്ക് പിശക് ലോഗ് കാണുക."
+"You cannot configure a product.","നിങ്ങൾക്ക് ഒരു ഉൽപ്പന്നം ക്രമീകരിക്കാൻ കഴിയില്ല."
+"You removed the items.","നിങ്ങൾ ഇനങ്ങൾ നീക്കംചെയ്‌തു."
+"You removed the item.","നിങ്ങൾ ഇനങ്ങൾ നീക്കംചെയ്‌തു."
+"You added %1 to your shopping cart.","നിങ്ങളുടെ ഷോപ്പിംഗ് കാർട്ടിൽ %1 ചേർത്തു."
+"You cannot add a product.","നിങ്ങൾക്ക് ഒരു ഉൽപ്പന്നം ചേർക്കാൻ കഴിയില്ല."
 "Please correct the data sent.","അയച്ച ഡാറ്റ ശരിയാക്കുക."
 "Entity type model '%1' is not found","എന്റിറ്റി ടൈപ്പ് മോഡൽ '%1' കണ്ടെത്തിയില്ല"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","എന്റിറ്റി ടൈപ്പ് മോഡൽ \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType ന്റെ ഒരു ഇൻസ്റ്റൻസ് ആയിരിക്കണം"
@@ -60,7 +141,6 @@ Customers,ഉപഭോക്താക്കൾ
 "Connection failed! Test again?","കണക്ഷൻ പരാജയപ്പെട്ടു! വീണ്ടും പരീക്ഷിക്കണോ?"
 "Enable Search Recommendations","തിരയൽ ശുപാർശകൾ പ്രാപ്തമാക്കുക"
 "When you enable this option your site may slow down.","നിങ്ങൾ ഈ ഓപ്ഷൻ പ്രാപ്തമാക്കുമ്പോൾ നിങ്ങളുടെ സൈറ്റ് മന്ദഗതിയിലായേക്കാം."
-ID,ഐഡി
 Store,സ്റ്റോർ
 Results,ഫലം
 Uses,ഉപയോഗങ്ങൾ
@@ -167,7 +247,6 @@ refund,റീഫണ്ട്
 "Fraud Detection ","തട്ടിപ്പ് കണ്ടെത്തൽ "
 "Sorry, but something went wrong. Please contact the seller.","ക്ഷമിക്കണം, എന്തോ കുഴപ്പം സംഭവിച്ചു. വിൽപ്പനക്കാരനുമായി ബന്ധപ്പെടുക."
 Enabled,പ്രവർത്തനക്ഷമമാക്കി
-Close,അടയ്ക്കുക
 options,ഓപ്ഷനുകൾ
 "Select all","എല്ലാം തിരഞ്ഞെടുക്കുക"
 "Deselect all","തിരഞ്ഞെടുത്ത എല്ലാം മായ്ക്കുക"
