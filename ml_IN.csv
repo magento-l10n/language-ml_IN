@@ -263,6 +263,106 @@ options,ഓപ്ഷനുകൾ
 "Deselect all","തിരഞ്ഞെടുത്ത എല്ലാം മായ്ക്കുക"
 "%s of %s selected","%s ന്റെ %s തിരഞ്ഞെടുത്തു"
 "B2B Features","ബി 2 ബി സവിശേഷതകൾ"
+"Invalid Form Key. Please refresh the page.","ഫോം കീ അസാധുവാണ്. പേജ് പുതുക്കുക."
+"You entered an invalid Secret Key. Please refresh the page.","നിങ്ങൾ അസാധുവായ ഒരു രഹസ്യ കീ നൽകി. പേജ് പുതുക്കുക."
+"Cache Storage Management","കാഷെ സ്റ്റോറേജ് ​​മാനേജുമെന്റ്"
+"Flush Magento Cache","Magento കാഷെ ഫ്ലഷ് ചെയ്യുക"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","കാഷെ സ്റ്റോറേജിൽ അധിക ഡാറ്റ അടങ്ങിയിരിക്കാം. നിങ്ങൾക്കത് ഫ്ലഷ് ചെയ്യണമെന്ന് ഉറപ്പാണോ?"
+"Flush Cache Storage","കാഷെ സ്റ്റോറേജ് ഫ്ലഷ് ചെയ്യുക"
+Invalidated,അസാധുവാണ്
+Orders,ഓർഡറുകൾ
+Amounts,തുകകൾ
+"Most Viewed Products","ഏറ്റവും കൂടുതൽ കണ്ട ഉൽപ്പന്നങ്ങൾ"
+"New Customers","പുതിയ ഉപഭോക്താക്കൾ"
+Customer,ഉപഭോക്താവ്
+Guest,അതിഥി
+Items,ഇനങ്ങൾ
+Total,ആകെ
+"Lifetime Sales","ആജീവനാന്ത വിൽപ്പന"
+"Average Order","ശരാശരി ഓർഡർ"
+Average,ശരാശരി
+Revenue,വരുമാനം
+Tax,നികുതി
+Shipping,ഷിപ്പിംഗ്
+"Images (.gif, .jpg, .png)","ഇമേജുകൾ (.gif, .jpg, .png)"
+"Media (.avi, .flv, .swf)","മീഡിയ (.avi, .flv, .swf)"
+"All Files","എല്ലാ ഫയലുകളും"
+"All Store Views","എല്ലാ സ്റ്റോർ കാഴ്‌ചകളും"
+"What is this?","ഇത് എന്താണ്?"
+"Save Account","അക്കൗണ്ട് സേവ് ചെയ്യുക"
+"My Account","എന്റെ അക്കൗണ്ട്"
+"Account Information","അക്കൗണ്ട് വിവരങ്ങൾ"
+"User Name","യൂസര്‍ നെയിം"
+"First Name","പേരിന്റെ ആദ്യഭാഗം"
+"Last Name","പേരിന്റെ അവസാന ഭാഗം"
+Email,ഇമെയിൽ
+"User Email","ഉപയോക്തൃ ഇമെയിൽ"
+"New Password","പുതിയ പാസ്‍വേര്‍ഡ്"
+"Password Confirmation","പാസ്‌വേഡ് സ്ഥിരീകരണം"
+"Interface Locale","ഇന്റർഫേസ് ലോക്കേൽ"
+"Current User Identity Verification","നിലവിലെ ഉപയോക്തൃ ഐഡന്റിറ്റി പരിശോധന"
+"Your Password","നിങ്ങളുടെ പാസ്സ്‌വേർഡ്"
+"Save Cache Settings","ക്യാഷെ സെറ്റിംഗ്സ് സേവ് ചെയ്യുക"
+"Catalog Rewrites","കാറ്റലോഗ് മാറ്റിയെഴുതുന്നു"
+Refresh,പുതുക്കുക
+Clear,മായ്ക്കുക
+"All Cache","എല്ലാ കാഷെ"
+"No change","യാതൊരു ഭേദഗതിയും"
+Disable,പ്രവർത്തനരഹിതമാക്കുക
+Enable,പ്രവർത്തനക്ഷമമാക്കുക
+"Add Design Change","ഡിസൈൻ മാറ്റം ചേർക്കുക"
+Delete,"നീക്കം ചെയ്യുക"
+Save,"സേവ് ചെയ്യുക"
+"Edit Design Change","ഡിസൈൻ മാറ്റം എഡിറ്റുചെയ്യുക"
+"New Store Design Change","പുതിയ സ്റ്റോർ ഡിസൈൻ മാറ്റം"
+"General Settings","പൊതുവായ ക്രമീകരണങ്ങൾ"
+"-- Please Select --","-- ദയവായി തിരഞ്ഞെടുക്കുക --"
+"Custom Design","ഇഷ്‌ടാനുസൃത രൂപകൽപ്പന"
+"Date From","തീയതി മുതൽ"
+"Date To","തീയതി വരെ"
+"Design Change","ഡിസൈൻ മാറ്റം"
+General,ജനറൽ
+"Delete %1 '%2'","%1 '%2' ഇല്ലാതാക്കുക"
+"Delete %1","%1 ഇല്ലാതാക്കുക"
+"Block Information","വിവരങ്ങൾ തടയുക"
+"Backup Options","ബാക്കപ്പ് ഓപ്ഷനുകൾ"
+"Create DB Backup","ഡിബി ബാക്കപ്പ് സൃഷ്ടിക്കുക"
+"Delete Store","സ്റ്റോർ ഇല്ലാതാക്കുക"
+"Delete Web Site","വെബ് സൈറ്റ് ഇല്ലാതാക്കുക"
+"Save Web Site","വെബ് സൈറ്റ് സേവ് ചെയ്യുക"
+"Save Store","സ്റ്റോർ സേവ് ചെയ്യുക"
+"Save Store View","സ്റ്റോർ വ്യൂ സേവ് ചെയ്യുക"
+"Delete Store View","സ്റ്റോർ വ്യൂ ഇല്ലാതാക്കുക"
+"Edit Web Site","വെബ് സൈറ്റ് എഡിറ്റുചെയ്യുക"
+"New Web Site","പുതിയ വെബ് സൈറ്റ്"
+"Edit Store","സ്റ്റോർ എഡിറ്റുചെയ്യുക"
+"New Store","പുതിയ സ്റ്റോർ"
+"Edit Store View","സ്റ്റോർ വ്യൂ എഡിറ്റുചെയ്യുക"
+"New Store View","പുതിയ സ്റ്റോർ വ്യൂ"
+"Web Site",വെബ്സൈറ്റ്
+Name,പേര്
+Code,കോഡ്
+Status,സ്റ്റാറ്റസ്
+Disabled,പ്രവർത്തനരഹിതമാക്കി
+Reset,പുനഃക്രമീകരിക്കുക
+"Are you sure you want to do this?","ഇത് ചെയ്യാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+"Add New Image","പുതിയ ഇമേജ് ചേർക്കുക"
+Search,തിരയുക
+"All Countries","എല്ലാ രാജ്യങ്ങളും"
+"We couldn't find any records.","ഞങ്ങൾക്ക് റെക്കോർഡുകളൊന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
+"Add New","പുതിയത് ചേർക്കുക"
+Dashboard,ഡാഷ്ബോർഡ്
+Error,പിശക്
+"Access Denied.","പ്രവേശനം ലഭിക്കുന്നില്ല."
+"You need more permissions to do this.","ഇത് ചെയ്യുന്നതിന് നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+System,സിസ്റ്റം
+Tools,ഉപകരണങ്ങൾ
+Backup,ബാക്കപ്പ്
+failed,പരാജയപ്പെട്ടു
+successful,വിജയിച്ചു
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","റോൾബാക്ക് പൂർത്തിയാക്കാൻ, ദയവായി ""സ്റ്റോർ മെയിന്റനൻസ് മോഡിലേക്ക് ഇടുക"" തിരഞ്ഞെടുത്തത് മാറ്റുക അല്ലെങ്കിൽ നിങ്ങളുടെ അനുമതികൾ അപ്‌ഡേറ്റ് ചെയ്യുക."
+"You need more permissions to perform a rollback.","ഒരു റോൾബാക്ക് നടത്താൻ നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
+Database,ഡാ‍റ്റാബേസ്
 "All Segments","എല്ലാ സെഗ്‌മെന്റുകളും"
 "Customer Segment","ഉപഭോക്തൃ വിഭാഗം"
 Country,രാജ്യം
@@ -279,9 +379,7 @@ PayPal,പേപാൽ
 "PayPal Account","പേപാൽ അക്കൗണ്ട്"
 "PayPal Logo","പേപാൽ ലോഗോ"
 Actions,പ്രവര്‍ത്തികള്‍
-Delete,"നീക്കം ചെയ്യുക"
 "Credit Card Information","ക്രെഡിറ്റ് കാർഡ് വിവരങ്ങൾ"
-"What is this?","ഇത് എന്താണ്?"
 "Save for later use.","പിന്നീടുള്ള ഉപയോഗത്തിനായി സേവ് ചെയ്യുക."
 "Place Order","ഓർഡർ പ്ലേസ് ചെയ്യുക"
 "This payment is not available","ഈ പേയ്‌മെന്റ് ലഭ്യമല്ല"
@@ -330,12 +428,9 @@ N/A,ബാധകമല്ല
 Always,എപ്പോഴും
 CAPTCHA,ക്യാപ്ച
 Root,റൂട്ട്
-Save,"സേവ് ചെയ്യുക"
 "Use Config Settings","കോൺഫിഗ് സെറ്റിംഗ്സ് ഉപയോഗിക്കുക"
 "Use All Available Attributes","ലഭ്യമായ എല്ലാ ആട്രിബ്യൂട്ടുകളും ഉപയോഗിക്കുക"
-Name,പേര്
 Visibility,വിസിബിലിറ്റി
-Status,സ്റ്റാറ്റസ്
 Position,സ്ഥാനം
 "Add Subcategory","ഉപവിഭാഗം ചേർക്കുക"
 "Add Root Category","റൂട്ട് വിഭാഗം ചേർക്കുക"
@@ -372,7 +467,6 @@ Weight,തൂക്കം
 Attributes,ആട്രിബ്യൂട്ട്സ്
 "Attribute Label","ആട്രിബ്യൂട്ട് ലേബൽ"
 Required,ആവശ്യമായത്
-System,സിസ്റ്റം
 Searchable,"തിരയാൻ കഴിയുന്ന"
 Comparable,താരതമ്യപ്പെടുത്താവുന്ന
 "Sign Out","സൈന്‍ ഔട്ട്‌"
