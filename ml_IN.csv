@@ -363,6 +363,43 @@ successful,വിജയിച്ചു
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","റോൾബാക്ക് പൂർത്തിയാക്കാൻ, ദയവായി ""സ്റ്റോർ മെയിന്റനൻസ് മോഡിലേക്ക് ഇടുക"" തിരഞ്ഞെടുത്തത് മാറ്റുക അല്ലെങ്കിൽ നിങ്ങളുടെ അനുമതികൾ അപ്‌ഡേറ്റ് ചെയ്യുക."
 "You need more permissions to perform a rollback.","ഒരു റോൾബാക്ക് നടത്താൻ നിങ്ങൾക്ക് കൂടുതൽ അനുമതികൾ ആവശ്യമാണ്."
 Database,ഡാ‍റ്റാബേസ്
+Banners,ബാനറുകൾ
+"Add Banner","ബാനർ ചേർക്കുക"
+"Save Banner","ബാനർ സേവ് ചെയ്യുക"
+"Delete Banner","ബാനർ ഇല്ലാതാക്കുക"
+"Save and Continue Edit","സേവ് ചെയ്ത്എഡിറ്റ് തുടരുക"
+"New Banner","പുതിയ ബാനർ"
+Content,ഉള്ളടക്കം
+"Related Promotions","അനുബന്ധ പ്രമോഷനുകൾ"
+"Start Date","ആരംഭ തീയതി"
+"End Date","അവസാന തീയതി"
+"Banner Properties","ബാനർ പ്രോപ്പർട്ടികൾ"
+"Banner Name","ബാനറിന്റെ പേര്"
+Active,സജീവമാണ്
+Inactive,നിഷ്‌ക്രിയം
+"Applies To",ബാധകമാണ്
+"Any Banner Type","ഏതെങ്കിലും ബാനർ തരം"
+"Banner Information","ബാനർ വിവരങ്ങൾ"
+Banner,ബാനർ
+"Banner Type","ബാനർ ടൈപ്പ്"
+Visibility,വിസിബിലിറ്റി
+"Are you sure you want to delete these banners?","ഈ ബാനറുകൾ ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+"Related Banners","അനുബന്ധ ബാനറുകൾ"
+Position,സ്ഥാനം
+"This rule no longer exists.","ഈ നിയമം നിലവിലില്ല."
+"This banner does not exist.","ഈ ബാനർ നിലവിലില്ല."
+"You deleted the banner.","നിങ്ങൾ ബാനർ ഇല്ലാതാക്കി."
+"Something went wrong while deleting banner data. Please review the action log and try again.","ബാനർ ഡാറ്റ ഇല്ലാതാക്കുമ്പോൾ എന്തോ തെറ്റായി സംഭവിച്ചു. പ്രവർത്തന ലോഗ് അവലോകനം ചെയ്‌ത് വീണ്ടും ശ്രമിക്കുക."
+"We cannot find a banner to delete.","ഇല്ലാതാക്കാൻ ഞങ്ങൾക്ക് ഒരു ബാനർ കണ്ടെത്താൻ കഴിയില്ല."
+"This banner no longer exists.","ഈ ബാനർ നിലവിലില്ല."
+"Edit Banner","ബാനർ എഡിറ്റുചെയ്യുക"
+"Please select a banner(s).","ഒരു ബാനർ (കൾ) തിരഞ്ഞെടുക്കുക."
+"You deleted %1 record(s).","നിങ്ങൾ %1 റെക്കോർഡ് (കൾ) ഇല്ലാതാക്കി."
+"Something went wrong while mass-deleting banners. Please review the action log and try again.","ബാനറുകൾ കൂട്ടത്തോടെ ഇല്ലാതാക്കുമ്പോൾ എന്തോ തെറ്റായി സംഭവിച്ചു. പ്രവർത്തന ലോഗ് അവലോകനം ചെയ്‌ത് വീണ്ടും ശ്രമിക്കുക."
+"You saved the banner.","നിങ്ങൾ ബാനർ സേവ് ചെയ്തു."
+"We cannot save the banner.","ഞങ്ങൾക്ക് ബാനർ സേവ് ചെയ്യാൻ കഴിയില്ല."
+"Please enter a name.","ഒരു പേര് നൽകുക."
+"-- None --","-- ഒന്നുമില്ല --"
 "All Segments","എല്ലാ സെഗ്‌മെന്റുകളും"
 "Customer Segment","ഉപഭോക്തൃ വിഭാഗം"
 Country,രാജ്യം
@@ -410,6 +447,8 @@ Fixed,നിശ്ചിതമായ
 "Requested bundle option product doesn't exist","അഭ്യർത്ഥിച്ച ബണ്ടിൽ ഓപ്ഷൻ ഉൽപ്പന്നം നിലവിലില്ല"
 "%fieldName is a required field.","%fഫീൽഡ്നെയിം ഒരു ആവശ്യമായ ഫീൽഡാണ്."
 "Requested option doesn't exist","അഭ്യർത്ഥിച്ച ഓപ്‌ഷൻ നിലവിലില്ല"
+"Cannot delete option with id %1","ഐഡി %1 ഉള്ള ഓപ്‌ഷൻ ഇല്ലാതാക്കാൻ കഴിയില്ല"
+"Could not save option","ഓപ്ഷൻ സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
 "Price Range","വില പരിധി"
 "As Low as","അത്രയും കുറവാണ്"
 Together,ഒരുമിച്ച്
@@ -420,18 +459,62 @@ Separately,വെവ്വേറെ
 "Please select all required options.","ആവശ്യമായ എല്ലാ ഓപ്ഷനുകളും തിരഞ്ഞെടുക്കുക."
 "We can't add this item to your shopping cart right now.","ഞങ്ങൾക്ക് ഇപ്പോൾ നിങ്ങളുടെ ഷോപ്പിംഗ് കാർട്ടിൽ ഈ ഇനം ചേർക്കാൻ കഴിയില്ല."
 N/A,ബാധകമല്ല
+Percent,ശതമാനം
 "Add Selected Products","തിരഞ്ഞെടുത്ത ഉൽപ്പന്നങ്ങൾ ചേർക്കുക"
 "Add Option","ഓപ്ഷൻ ചേർക്കുക"
 "New Option","പുതിയ ഓപ്ഷൻ"
 "Option Title","ഓപ്ഷൻ ശീർഷകം"
 "Store View Title","സ്റ്റോർ വ്യൂ ശീർഷകം"
+"Input Type","ഇൻപുട്ട് ടൈപ്പ്"
+"Radio Buttons","റേഡിയോ ബട്ടണുകൾ"
+Checkbox,ചെക്ക്ബോക്സ്
+"Multiple Select","ഒന്നിലധികം തിരഞ്ഞെടുക്കൽ"
+Required,ആവശ്യമാണ്
+Quantity:,അളവ്:
+"There are no products in this option.","ഈ ഓപ്ഷനിൽ ഉൽപ്പന്നങ്ങളൊന്നുമില്ല."
+Refunded,"റീഫണ്ട് ചെയ്തു"
+Canceled,റദ്ദാക്കി
+"Regular Price","സാധാരണ വില"
+"Go back to product details","ഉൽപ്പന്ന വിശദാംശങ്ങളിലേക്ക് മടങ്ങുക"
+"* Required Fields","* ആവശ്യമായ ഫീൽഡുകൾ"
+Availability,ലഭ്യത
+"In stock",സ്റ്റോക്കുണ്ട്
+Summary,സംഗ്രഹം
+Availability:,ലഭ്യത:
+"""option_id"" and ""parent_id"" values should be specified","""option_id"", ""parent_id"" മൂല്യങ്ങൾ വ്യക്തമാക്കണം"
+"""sku"" value should be specified","""sku"" മൂല്യം വ്യക്തമാക്കണം"
+Select...,തിരഞ്ഞെടുക്കുക...
+Type,ടൈപ്പ്
 Always,എപ്പോഴും
+"After number of attempts to login","ലോഗിൻ ചെയ്യാനുള്ള നിരവധി ശ്രമങ്ങൾക്ക് ശേഷം"
+"Provided form does not exist","നൽകിയ ഫോം നിലവിലില്ല"
+"Incorrect CAPTCHA","തെറ്റായ കാപ്ച"
+"Incorrect CAPTCHA.","തെറ്റായ കാപ്ച."
+"The account is locked. Please wait and try again or contact %1.","അക്കൗണ്ട് ലോക്കുചെയ്‌തു. കാത്തിരുന്ന് വീണ്ടും ശ്രമിക്കുക അല്ലെങ്കിൽ %1 നെ ബന്ധപ്പെടുക."
+"Please enter the letters and numbers from the image","ചിത്രത്തിൽ നിന്ന് അക്ഷരങ്ങളും അക്കങ്ങളും നൽകുക"
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>ശ്രദ്ധ</strong>: കാപ്ച കേസ് സെൻ‌സിറ്റീവ് ആണ്."
+"Reload captcha","ക്യാപ്‌ച വീണ്ടും ലോഡുചെയ്യുക"
+"Please type the letters and numbers below","ചുവടെയുള്ള അക്ഷരങ്ങളും അക്കങ്ങളും ടൈപ്പ് ചെയ്യുക"
+"Attention: Captcha is case sensitive.","ശ്രദ്ധിക്കുക: കാപ്ച കേസ് സെൻ‌സിറ്റീവ് ആണ്."
 CAPTCHA,ക്യാപ്ച
+"Enable CAPTCHA in Admin","അഡ്‌മിനിൽ CAPTCHA പ്രവർത്തനക്ഷമമാക്കുക"
+Font,ഫോണ്ട്
+Forms,ഫോമുകൾ
+"Number of Unsuccessful Attempts to Login","ലോഗിൻ ചെയ്യാനുള്ള പരാജയപ്പെട്ട ശ്രമങ്ങളുടെ എണ്ണം"
+"If 0 is specified, CAPTCHA on the Login form will be always available.","0 വ്യക്തമാക്കിയിട്ടുണ്ടെങ്കിൽ, ലോഗിൻ ഫോമിലെ CAPTCHA എല്ലായ്പ്പോഴും ലഭ്യമാകും."
+"CAPTCHA Timeout (minutes)","കാപ്‌ച കാലഹരണപ്പെട്ടു (മിനിറ്റ്)"
+"Number of Symbols","ചിഹ്നങ്ങളുടെ എണ്ണം"
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","പരമാവധി 8 ചിഹ്നങ്ങൾ വ്യക്തമാക്കുക. അനുവദിച്ചരിക്കുന്ന റേഞ്ച് (ഉദാ. 3-5)"
+"Symbols Used in CAPTCHA","കാപ്ചയിൽ ഉപയോഗിച്ച ചിഹ്നങ്ങൾ"
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","ഈ ഫീൽഡിൽ അക്ഷരങ്ങൾ (a-z അല്ലെങ്കിൽ A-Z) അല്ലെങ്കിൽ അക്കങ്ങൾ (0-9) മാത്രം ഉപയോഗിക്കുക. സ്‌പെയ്‌സുകളോ മറ്റ് പ്രതീകങ്ങളോ അനുവദനീയമല്ല. <br /> സമാനമായ പ്രതീകങ്ങൾ (ഉദാ. ""I"", ""l"", ""1"") ഉപഭോക്താവിന് ശരിയായ തിരിച്ചറിയലിനുള്ള സാധ്യത കുറയ്‌ക്കുന്നു."
+"Case Sensitive","വലിയ അക്ഷരങ്ങളും ചെറിയ അക്ഷരങ്ങളും ശ്രദ്ധിക്കണം"
+"Enable CAPTCHA on Storefront","സ്റ്റോർ‌ഫ്രണ്ടിൽ‌ CAPTCHA പ്രാപ്‌തമാക്കുക"
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","""ഉപയോക്താവിനെ സൃഷ്‌ടിക്കുക"", ""പാസ്‌വേഡ് മറന്നോ"" എന്നീ ഫോമുകൾക്കായുള്ള ക്യാപ്ച തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ എല്ലായ്പ്പോഴും പ്രവർത്തനക്ഷമമാകും."
+"Please enter the letters from the image","ചിത്രത്തിൽ നിന്നുള്ള അക്ഷരങ്ങൾ നൽകുക"
+"Please type the letters below","ചുവടെയുള്ള അക്ഷരങ്ങൾ ടൈപ്പ് ചെയ്യുക"
 Root,റൂട്ട്
 "Use Config Settings","കോൺഫിഗ് സെറ്റിംഗ്സ് ഉപയോഗിക്കുക"
 "Use All Available Attributes","ലഭ്യമായ എല്ലാ ആട്രിബ്യൂട്ടുകളും ഉപയോഗിക്കുക"
-Visibility,വിസിബിലിറ്റി
-Position,സ്ഥാനം
 "Add Subcategory","ഉപവിഭാഗം ചേർക്കുക"
 "Add Root Category","റൂട്ട് വിഭാഗം ചേർക്കുക"
 Day,ദിവസം
@@ -459,16 +542,59 @@ label,ലേബല്‍
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","ഉൽപ്പന്ന ഗ്രിഡിലെ ഫിൽട്ടർ ഓപ്ഷനുകളുടെ പട്ടികയിലേക്ക് ഈ ആട്രിബ്യൂട്ട് ചേർക്കാൻ ""അതെ"" തിരഞ്ഞെടുക്കുക."
 "Store View","സ്റ്റോർ വ്യൂ"
 Website,"വെബ് സൈറ്റ്"
+"Data Type for Saving in Database","ഡാറ്റാബേസിൽ സേവ് ചെയുന്നതിനുള്ള ഡാറ്റ ടൈപ്പ്"
+Text,ടെക്സ്റ്റ്
+Decimal,ദശാംശം
+Properties,പ്രോപ്പർട്ടികൾ
+Searchable,"തിരയാൻ കഴിയുന്ന"
+Comparable,താരതമ്യപ്പെടുത്താവുന്ന
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","ഈ ആട്രിബ്യൂട്ട് സെറ്റിലെ എല്ലാ ഉൽപ്പന്നങ്ങളും നിങ്ങൾ ഇല്ലാതാക്കാൻ പോകുന്നു. നിങ്ങൾക്ക് അത് ചെയ്യണമെന്ന് ഉറപ്പാണോ?"
+"Edit Event","ഇവന്റ് എഡിറ്റുചെയ്യുക"
+"Add Event","ഇവന്റ് ചേർക്കുക"
+Events,ഇവന്റുകൾ
+"Add Catalog Event","കാറ്റലോഗ് ഇവന്റ് ചേർക്കുക"
+"Edit Catalog Event","കാറ്റലോഗ് ഇവന്റ് എഡിറ്റുചെയ്യുക"
+"Catalog Event Information","കാറ്റലോഗ് ഇവന്റ് വിവരങ്ങൾ"
+Category,വിഭാഗം
+Image,ചിത്രം
+"Sort Order",ക്രമം
+Upcoming,വരാനിരിക്കുന്ന
+Open,തുറക്കുക
+Closed,അടച്ചു
+"Display Countdown Ticker On","കൗണ്ട്‌ഡൗൺ ടിക്കർ ഓണാക്കുക"
+"Category Page","വിഭാഗം പേജ്"
+"Product Page","ഉൽപ്പന്ന പേജ്"
+[GLOBAL],[ഗ്ലോബൽ]
+[WEBSITE],[വെബ്സൈറ്റ്]
+"Coming Soon","ഉടൻ വരുന്നു"
+"Sale Ends In","വിൽപ്പന അവസാനിക്കുന്നു"
+Catalog,കാറ്റലോഗ്
+"You deleted the event.","നിങ്ങൾ ഇവന്റ് ഇല്ലാതാക്കി."
+"New Event","പുതിയ ഇവന്റ്"
+"Something went wrong while saving this event.","ഈ ഇവന്റ് സംരക്ഷിക്കുമ്പോൾ എന്തോ തെറ്റായി സംഭവിച്ചു."
+"We did not upload your image.","ഞങ്ങൾ നിങ്ങളുടെ ഇമേജ് അപ്‌ലോഡ് ചെയ്തിട്ടില്ല."
+"You saved the event.","നിങ്ങൾ ഇവന്റ് സംരക്ഷിച്ചു."
+"%1 is required.","%1 ആവശ്യമാണ്."
+"Please make sure the end date follows the start date.","അവസാന തീയതി ആരംഭ തീയതിയെ പിന്തുടരുന്നുവെന്ന് ഉറപ്പാക്കുക."
+"Event for selected category","തിരഞ്ഞെടുത്ത വിഭാഗത്തിനായുള്ള ഇവന്റ്"
+"Lister Block","ലിസ്റ്റർ ബ്ലോക്ക്"
+"This product is no longer on sale.","ഈ ഉൽപ്പന്നം ഇപ്പോൾ വിൽപ്പനയിലില്ല."
+"Some of these products can no longer be sold.","ഈ ഉൽപ്പന്നങ്ങളിൽ ചിലത് മേലിൽ വിൽക്കാൻ കഴിയില്ല."
+"Select Category","കാറ്റഗറി തിരഞ്ഞെടുക്കുക"
+Days,ദിവസങ്ങളിൽ
+Hrs,മണിക്കൂർ
+Mins,മിനിറ്റ്
+Sec,സെക്കന്റ്
+Previous,മുമ്പത്തെ
+Next,അടുത്തത്
+"Catalog Events","കാറ്റലോഗ് ഇവന്റുകൾ"
 "Preview mode doesn't allow submitting the order.","ഓർഡർ സമർപ്പിക്കാൻ പ്രിവ്യൂ മോഡ് അനുവദിക്കുന്നില്ല."
 "Preview Quote Lifetime (minutes)","പ്രിവ്യൂ കോട്ട് ജീവിതകാലയളവ് (മിനിറ്റ്)"
 "The order can't be submitted in preview mode.","ഓർഡർ പ്രിവ്യൂ മോഡിൽ സമർപ്പിക്കാൻ കഴിയില്ല."
-Select...,തിരഞ്ഞെടുക്കുക...
 Weight,തൂക്കം
 Attributes,ആട്രിബ്യൂട്ട്സ്
 "Attribute Label","ആട്രിബ്യൂട്ട് ലേബൽ"
 Required,ആവശ്യമായത്
-Searchable,"തിരയാൻ കഴിയുന്ന"
-Comparable,താരതമ്യപ്പെടുത്താവുന്ന
 "Sign Out","സൈന്‍ ഔട്ട്‌"
 "Sign In","സൈന്‍ ഇന്‍"
 "You are subscribed to our newsletter.","നിങ്ങൾ ഞങ്ങളുടെ വാർത്താക്കുറിപ്പ് സബ്‌സ്‌ക്രൈബുചെയ്‌തു."
@@ -479,7 +605,6 @@ Comparable,താരതമ്യപ്പെടുത്താവുന്ന
 "Edit Address","അഡ്രസ് തിരുത്തുക"
 "Add New Address","പുതിയ അഡ്രസ് ചേർക്കുക"
 "Start date","ആരംഭ തീയതി"
-"End Date","അവസാന തീയതി"
 "Store Credit","സ്റ്റോർ ക്രെഡിറ്റ്"
 Date,തീയതി
 "Balance Change","ബാലൻസ് മാറ്റം"
@@ -505,7 +630,6 @@ Comment,അഭിപ്രായം
 Created,സൃഷ്ടിച്ചു
 Updated,അപ്‌ഡേറ്റുചെയ്‌തു
 Used,ഉപയോഗിച്ചു
-Refunded,"റീഫണ്ട് ചെയ്തു"
 Reverted,പഴയപടിയാക്കി
 "You need a balance to save your balance history.","നിങ്ങളുടെ ബാലൻസ് ഹിസ്റ്ററി സംരക്ഷിക്കാൻ നിങ്ങൾക്ക് ഒരു ബാലൻസ് ആവശ്യമാണ്."
 "Order #%1","ഓർഡർ #%1"
@@ -525,4 +649,3 @@ Reverted,പഴയപടിയാക്കി
 available,ലഭ്യമാണ്
 "Refunded to Store Credit","സ്റ്റോർ ക്രെഡിറ്റിലേക്കു പണം തിരികെ നൽകുക"
 "Customer Address Attributes","കസ്റ്റമർ അഡ്രസ് ആട്രിബ്യൂട്ടുകൾ"
-"Save and Continue Edit","സേവ് ചെയ്ത്എഡിറ്റ് തുടരുക"
