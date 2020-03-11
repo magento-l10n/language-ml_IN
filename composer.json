@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-ml_in",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "type": "magento2-language",
     "description": "ml_IN language package.",
     "license": [
