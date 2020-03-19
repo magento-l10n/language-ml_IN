@@ -1463,6 +1463,28 @@ Currency,കറൻസി
 "Please correct the input data for %1 => %2 rate","""%1 => %2"" നിരക്കിനായി ഇൻപുട്ട് ഡാറ്റ ശരിയാക്കുക"
 "The Import Service is incorrect. Verify the service and try again.","ഇമ്പോർട് സർവീസ് തെറ്റാണ്. സേവനം പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
 "The import model can't be initialized. Verify the model and try again.","ഇമ്പോർട് മോഡൽ സമാരംഭിക്കാൻ കഴിയില്ല. മോഡൽ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"The current module XML block name is undefined.","നിലവിലെ മൊഡ്യൂൾ എക്സ്എം‌എൽ ബ്ലോക്ക് നാമം നിർ‌വ്വചിച്ചിട്ടില്ല."
+"The current module form model pathname is undefined.","നിലവിലെ മൊഡ്യൂൾ ഫോം മോഡൽ പാത്ത് നാമം നിർവചിക്കപ്പെട്ടിട്ടില്ല."
+"Use helper with defined EAV entity.","നിർവചിക്കപ്പെട്ട EAV എന്റിറ്റി ഉള്ള സഹായി ഉപയോഗിക്കുക."
+"Default EAV Form","ഡീഫോൾട് EAV ഫോം"
+"Please correct the values for minimum and maximum text length validation rules.","കുറഞ്ഞതും കൂടിയതുമായ വാചക ദൈർ‌ഘ്യ മൂല്യനിർണ്ണയ നിയമങ്ങൾ‌ക്കായി ദയവായി മൂല്യങ്ങൾ‌ ശരിയാക്കുക."
+"Please correct the values for minimum and maximum date validation rules.","കുറഞ്ഞതും കൂടിയതുമായ വാചക ദൈർ‌ഘ്യ മൂല്യനിർണ്ണയ നിയമങ്ങൾ‌ക്കായി ദയവായി മൂല്യങ്ങൾ‌ ശരിയാക്കുക."
+"Text Field","ടെക്സ്റ്റ് ഫീൽഡ്"
+"Text Area","ടെക്സ്റ്റ് ഏരിയ"
+"Multiple Line","ഒന്നിലധികം ലൈൻ"
+Date,തീയതി
+Dropdown,"ഡ്രോപ്പ് ഡൗൺ"
+Yes/No,അതെ/അല്ല
+"File (attachment)","ഫയൽ (അറ്റാച്ചുമെന്റ്)"
+"Image File","ഇമേജ് ഫയൽ"
+Alphanumeric,ആൽഫാന്യൂമെറിക്
+"Numeric Only","സംഖ്യാ മാത്രം"
+"Alpha Only","ആൽഫ മാത്രം"
+"Strip HTML Tags","സ്ട്രിപ്പ് HTML ടാഗുകൾ"
+"Normalize Date","തീയതി സാധാരണമാക്കുക"
+"The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","ആട്രിബ്യൂട്ട് കോഡ് അസാധുവാണ്. ഈ ഫീൽഡിൽ അക്ഷരങ്ങൾ (a-z), അക്കങ്ങൾ (0-9) അല്ലെങ്കിൽ അടിവരയിടുക (_) മാത്രം ഉപയോഗിക്കുക. ആദ്യത്തെ പ്രതീകം ഒരു അക്ഷരമായിരിക്കണം."
+"Please correct the value for file extensions.","ഫയൽ എക്സറ്റന്ഷന്റെ മൂല്യം ദയവായി ശരിയാക്കുക."
+"Alphanumeric with spaces","സ്‌പെയ്‌സുകളുള്ള ആൽഫാന്യൂമെറിക്"
 "Sign Out","സൈന്‍ ഔട്ട്‌"
 "You are subscribed to our newsletter.","നിങ്ങൾ ഞങ്ങളുടെ വാർത്താക്കുറിപ്പ് സബ്‌സ്‌ക്രൈബുചെയ്‌തു."
 "You aren't subscribed to our newsletter.","നിങ്ങൾ ഞങ്ങളുടെ വാർത്താക്കുറിപ്പ് സബ്‌സ്‌ക്രൈബുചെയ്‌തിട്ടില്ല."
@@ -1471,8 +1493,43 @@ Currency,കറൻസി
 "Address Book","അഡ്രസ് ബുക്ക്"
 "Edit Address","അഡ്രസ് തിരുത്തുക"
 "Add New Address","പുതിയ അഡ്രസ് ചേർക്കുക"
+region,സ്ഥലം
+"Save Customer","ഉപഭോക്താവിനെ സേവ് ചെയ്യുക"
+"Reset Password","പാസ്‍വേര്‍ഡ് പുനഃക്രമീകരിക്കുക"
+"Are you sure you want to revoke the customer's tokens?","ഉപഭോക്താവിന്റെ ടോക്കണുകൾ അസാധുവാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+"Force Sign-In","സൈൻ-ഇൻ നിർബന്ധിക്കുക"
+"New Customer","പുതിയ ഉപഭോക്താവ്"
+"Please select","ദയവായി തിരഞ്ഞെടുക്കുക"
+Action,പ്രവര്‍ത്തി
+"Shopping Cart from %1","%1 മുതൽ ഷോപ്പിംഗ് കാർട്ട്"
+Newsletter,വാർത്താക്കുറിപ്പ്
+"Newsletter Information","വാർത്താക്കുറിപ്പ് വിവരങ്ങൾ"
+"Subscribed to Newsletter","വാർത്താക്കുറിപ്പിലേക്ക് സബ്‌സ്‌ക്രൈബുചെയ്‌തു"
+"Last Date Subscribed","അവസാന തീയതി സബ്‌സ്‌ക്രൈബുചെയ്‌തു"
+"Last Date Unsubscribed","അവസാന തീയതി സബ്‌സ്‌ക്രൈബുചെയ്‌തു"
+"No Newsletter Found","വാർത്താക്കുറിപ്പുകളൊന്നും കണ്ടെത്തിയില്ല"
 "Start date","ആരംഭ തീയതി"
-Date,തീയതി
+Subject,വിഷയം
+Sent,അയച്ചു
+"Not Sent",അയച്ചില്ല
+Sending,അയയ്ക്കുന്നു
+Paused,"താൽക്കാലികമായി നിർത്തി"
+View,കാണുക
+Unknown,അജ്ഞാതം
+Order,ക്രമം
+"Bill-to Name","ബിൽ-ടു നെയിം"
+"Order Total","ഓർഡർ ആകെ"
+"Purchase Point","വാങ്ങൽ പോയിന്റ്"
+"Customer View","ഉപഭോക്തൃ കാഴ്ച"
+"There are no items in customer's shopping cart.","ഉപഭോക്താവിന്റെ ഷോപ്പിംഗ് കാർട്ടിൽ ഇനങ്ങളൊന്നുമില്ല."
+Confirmed,സ്ഥിരീകരിച്ചു
+"Confirmation Required","സ്ഥിരീകരണം ആവശ്യമാണ്"
+"Confirmation Not Required","സ്ഥിരീകരണം ആവശ്യമില്ല"
+"Thank you for registering with %1.","%1 ൽ രജിസ്റ്റർ ചെയ്തതിന് നന്ദി."
+"Please check your email for confirmation key.","സ്ഥിരീകരണ കീയ്ക്കായി നിങ്ങളുടെ ഇമെയിൽ പരിശോധിക്കുക."
+"This email does not require confirmation.","ഈ ഇമെയിലിന് സ്ഥിരീകരണം ആവശ്യമില്ല."
+"Wrong email.","തെറ്റായ ഇമെയിൽ."
+"Your password reset link has expired.","നിങ്ങളുടെ പാസ്‌വേഡ് പുനസജ്ജീകരണ ലിങ്ക് കാലഹരണപ്പെട്ടു."
 "Balance Change","ബാലൻസ് മാറ്റം"
 Balance,ബാലൻസ്
 "Customer notified","ഉപഭോക്താവിനെ അറിയിച്ചു"
